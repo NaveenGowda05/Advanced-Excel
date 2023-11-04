@@ -1,0 +1,228 @@
+$ sign meaning
+
+$A$1	 	– always refers to column A and row 1
+$A1 		– Column A is fixed and will not change, but the row is allowed to change as the formula is copied
+A$1		– Row 1 is fixed and will not change, but the column is allowed to change as the formula is copied.
+$A$1:$A$100 	– always refers to the range A1:A100
+
+
+
+
+Enter -> goto next cell
+Shift -> go back one cell up
+
+Tab -> goto next cell
+Shift -> Go back pervious cell
+
+
+Bold - Ctrl + B (Togethor)
+Select the range
+Border Alt H B A
+Alt H O M => Move or copy sheets
+
+Alt H A C => Center aliment
+Alt W VG => Show / Hide the Grid line
+
+F4(Fn) => Repeat the last action
+
+Shift F11(fn) => To Insert sheet
+Ctrl(Fn) + Pgdown =>goto next sheet
+Ctrl(Fn) + Pgup =>goto Prev sheet
+
+Ctrl (Fn) + Home => Cursor will move to A1 cells (Starting cells)
+
+Show/Hide Ribbon => Ctrl F1
+
+Cell format => Ctrl + 1
+
+
+Alt H D S => To delete current sheets
+
+Ctrl + W => Close current Excel
+Ctrl + N => New Excel
+
+Alt H B A => For border
+Cltr + F1 => Show / Hide Ribbon
+
+to fill the number
+Step 1 : Type Staring number
+Step 2 : Select the range (Option) ( Shift + down Arrow)
+Step 3 : Alt H F I S
+Step 4 : Row/Col (Alt C)+ Alt o (Stop value)
+
+Step 5 : Enter
+
+
+
+Alt + "=" => Sum (Autosum)
+
+
+Alt O C A => for Column Auto fit
+
+Ctrl + D => Copy down
+Ctrl + R => Copy Right
+
+Ctrl + Downarrow => Currsor will move to next space
+Ctrl + Uparrow => Currsor will move to next space
+Ctrl + Rightarrow => Currsor will move to next space
+Ctrl + Leftarrow => Currsor will move to next space
+
+To Sort
+Alt A SA
+Alt A SD
+===================
+For Pivot
+Step 1: Click cell A1
+Step 2: Alt N V (or) Alt DP
+2 time enter
+Select location (Ex: J5)
+
+Alt A R A => To Refresh pivot table
+Alt J T I D => To change the pivot table source
+
+-------------
+
+Alt  H D S => Delete current sheet
+
+Ctrl + Home => Cursor will move to A1 cell
+
+Text to column => Alt A E
+
+Shift + F11 => Insert new sheet
+
+Alt W FF => To Freeze the heading
+=========
+
+To Filter 
+Ctrl + Shift + L
+    or
+Alt + D + F + F
+
+Ctrl + ~ (Unary operation) => Show formula
+
+
+To Save current excel (Ctrl + S)
+To Save As current excel F12(Fn)
+
+To Remove the formula
+Step 1: Select the range
+Step 2: Copy
+Step 3: Alt E S V (or) Ctrl + Alt + V
+Step 4: Enter (or) Click on Ok button
+Step 5: Esc
+-----------------------
+
+
+
+Date format  (DD-MMM-YY)
+Ctrl + Shift + 3
+
+To Insert Pivot => Alt NV or Alt DP
+
+Pivot Refresh => Alt + F5 (or) Alt A R A
+=============================================
+
+Rule 1: Base table 1
+ (Ex Col A To F)=>F4 one time
+
+Rule 2: In values in sleeping (Harzantical) 
+ (Ex Heading(Name1, Name2...)=>F4 Two time
+
+Rule 3: In values in Standing(Vertical) 
+ (Ex Heading(Date, or ID...)=>F4 Three time
+
+To Freeze the row and col
+Step 1 : Click on cell (Ex: F2)
+Step 2 : Alt W F F(Both Row, Col) 
+or
+Alt W F R only Row freeze
+Alt W F C only Col freeze
+
+Data Validation => Alt DL or Alt A VV
+
+ctrl + f1  =>  hide/show ribbon
+
+ctrl +pg dw =>next sheet
+ctrl +pg up => prev sheet
+
+
+Step 1: Select the range => in name box -> type name(Without space)
+
+Step 2: In formula use F3 => To show name
+
+Ctrl + F3 => Name Manager
+Ctrl + Shift + F3 => To create name (Automatic)
+
+Data validation 
+Alt A V V (or) Alt D L
+
+Alt H B A => All Border
+Ctrl + Home => Go to A1 Cells
+
+Ctrl + Pgup => Previous sheet
+
+Ctrl + Pgdown => Next sheet
+Shift + F11 => Insert new sheets
+
+Ctrl + A => select All
+
+Ctrl + 1 => Cell format
+
+To protech sheet
+Step 1: Ctrl +A
+Step 2: Ctrl + 1 (Cell format)
+Step 3: proctech -> Tick (lock & hidden)
+Step 4: Select permission range
+	proctech -> unTick (lock & hidden)
+
+Step 5: Ribbon -> Review ->under protech sheet
+
+Alt H O M => Move/copy sheet
+Alt H O R => Rename the sheet
+
+-----------------
+To Protech sheet
+-----------------
+
+Step 1: Ctrl + A (Select All)
+Step 2: Ctrl + 1 (Cells format)
+Step 3: Last tab (Proctection tab)
+Step 4:Tick lock and hidden
+Click on Ok
+
+Step 5:Select the permission range (Ex : Yellow Cells)
+Step 2: Ctrl + 1 (Cells format)
+Step 3: Last tab (Proctection tab)
+Step 4:unTick lock and hidden
+
+Step 9:Ribbon Review
+Step 10:Proctech sheet
+Step 11:Give the password
+
+Move the column
+
+Step 1 Select the cell 
+Step 2 Select col (Ctrl + Space bar)
+Step 3 Ctrl + X 
+Step 4	goto the requirect
+Step 5 Ctrl + Shift + Plus
+
+
+F1 - Help
+Ctrl + F1 => To Hide / Show the ribbon
+F2 Edit the formula
+F3 Show the name
+Ctrl + F3 => Name Manager
+Ctrl + Shift + F3 => Create name from selection
+F4 => Repeat the last Action
+F5 => Go to (Ctrl + G)
+F6 => NExt panel
+F7 => Spell check
+F8 => selection extanented (Shfit + Down Arrow)
+F9 => Calculate now
+F10 => Goto Ribbon / work area
+F11 => insert char
+F12 => Save As
+
+
+

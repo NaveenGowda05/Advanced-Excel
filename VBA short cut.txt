@@ -1,0 +1,21 @@
+In Excel
+
+Enable the developer tab
+File => Options (Last one) => Customize ribbon => Customize Ribbon => Tick the developer tab (Right side) => Click on Ok
+
+
+Alt(Fn) + F11 => To VBA Editor/For excel
+Alt(Fn) + F8 =>  To Run the Macro
+
+Alt L R for Start / Stop Record macro
+
+In VBA
+(Fn) F5 => Run the Program
+(Fn) F8 => Step by Step
+(Fn) F9 => Break point
+
+Ctrl + R => Project explorer
+
+Alt I M => Insert new modual
+
+Alt + R R => To stop Macro, while already running in step by step (F8)
